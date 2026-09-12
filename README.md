@@ -7,7 +7,15 @@ I'm a BCA student passionate about **Python, Cybersecurity, Networking and Linux
 I enjoy building practical projects, experimenting with security concepts, and improving my programming skills every day.
 
 ## 🔐 What I'm Learning
+## 💻 Tech Stack
 
+- 🐍 Python
+- 🐧 Linux / Termux
+- 🌐 Networking
+- 🔐 Cybersecurity
+- 🗄️ SQLite
+- 🔧 Git & GitHub
+- 🌍 HTML & CSS
 - 🐍 Python Programming
 - 🔐 Cybersecurity Fundamentals
 - 🌐 Computer Networking
