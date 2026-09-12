@@ -9,10 +9,10 @@ I enjoy building practical projects, exploring security concepts, and improving 
 ## 💻 Tech Stack
 
 - 🐍 Python
-- 🐧 Linux / Termux
+- 🐧 Linux & Termux
 - 🌐 Computer Networking
 - 🔐 Cybersecurity Fundamentals
-- 🗄️ SQLite & Databases
+- 🗄️ SQLite
 - 🔧 Git & GitHub
 - 🌍 HTML & CSS
 - 🤖 AI & APIs
@@ -27,8 +27,6 @@ I enjoy building practical projects, exploring security concepts, and improving 
 - #️⃣ Hashing & Verification
 - 🛡️ File Integrity Checking
 - 🗄️ SQLite Database Management
-- 🐧 Linux & Termux
-- 🔧 Git & GitHub
 
 ## 🛡️ Featured Project
 
@@ -36,7 +34,7 @@ I enjoy building practical projects, exploring security concepts, and improving 
 
 A Python-based cybersecurity and networking practice project built to explore security concepts through practical tools and experiments.
 
-**Key Features:**
+### Key Features
 
 - 🌐 Network Tools
 - 🔍 Scanner Tools
