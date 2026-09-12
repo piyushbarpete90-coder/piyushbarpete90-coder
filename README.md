@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hi, I'm Piyush Barpete
 
-<!--
-**piyushbarpete90-coder/piyushbarpete90-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 BCA Student | Python Developer | Cybersecurity & Networking Learner
 
-Here are some ideas to get you started:
+I'm a BCA student passionate about **Python, Cybersecurity, Networking and Linux**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building practical projects, experimenting with security concepts, and improving my programming skills every day.
+
+## 🔐 What I'm Learning
+
+- 🐍 Python Programming
+- 🔐 Cybersecurity Fundamentals
+- 🌐 Computer Networking
+- 🐧 Linux & Termux
+- 🗄️ SQLite & Databases
+- 🔧 Git & GitHub
+
+## 🛠️ Featured Project
+
+### 🛡️ [Piyush Security Lab](https://github.com/piyushbarpete90-coder/Piyush-Security-Lab)
+A Python-based cybersecurity and networking practice project containing
+network tools, scanners, HTTP tools, log analysis, hashing and file
+integrity features.
+
+## 🚀 Current Focus
+
+- Building practical cybersecurity tools
+- Improving Python and networking skills
+- Learning ethical cybersecurity
+- Creating projects for my developer portfolio
+
+## 🎯 Goal
+
+To become a skilled **Cybersecurity & Python professional** by continuously learning and building real-world projects.
+
+---
+
+⭐ Thanks for visiting my profile!
