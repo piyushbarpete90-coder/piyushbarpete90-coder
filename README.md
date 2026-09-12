@@ -4,42 +4,65 @@
 
 I'm a BCA student passionate about **Python, Cybersecurity, Networking and Linux**.
 
-I enjoy building practical projects, experimenting with security concepts, and improving my programming skills every day.
+I enjoy building practical projects, exploring security concepts, and improving my programming skills through hands-on practice.
 
-## 🔐 What I'm Learning
 ## 💻 Tech Stack
 
 - 🐍 Python
 - 🐧 Linux / Termux
-- 🌐 Networking
-- 🔐 Cybersecurity
-- 🗄️ SQLite
-- 🔧 Git & GitHub
-- 🌍 HTML & CSS
-- 🐍 Python Programming
-- 🔐 Cybersecurity Fundamentals
 - 🌐 Computer Networking
-- 🐧 Linux & Termux
+- 🔐 Cybersecurity Fundamentals
 - 🗄️ SQLite & Databases
 - 🔧 Git & GitHub
+- 🌍 HTML & CSS
+- 🤖 AI & APIs
 
-## 🛠️ Featured Project
+## 🛠️ Skills
 
-### 🛡️ [Piyush Security Lab](https://github.com/piyushbarpete90-coder/Piyush-Security-Lab)
-A Python-based cybersecurity and networking practice project containing
-network tools, scanners, HTTP tools, log analysis, hashing and file
-integrity features.
+- 🐍 Python Programming
+- 🌐 Network Tools
+- 🔍 Network Scanning
+- 🌍 HTTP & Web Basics
+- 📊 Log Analysis
+- #️⃣ Hashing & Verification
+- 🛡️ File Integrity Checking
+- 🗄️ SQLite Database Management
+- 🐧 Linux & Termux
+- 🔧 Git & GitHub
+
+## 🛡️ Featured Project
+
+### 🔐 Piyush Security Lab
+
+A Python-based cybersecurity and networking practice project built to explore security concepts through practical tools and experiments.
+
+**Key Features:**
+
+- 🌐 Network Tools
+- 🔍 Scanner Tools
+- 🌍 HTTP Tools
+- 📊 Log Analyzer
+- #️⃣ Hash Lab
+- 🛡️ File Integrity Lab
+- 🗄️ SQLite Database Tools
+
+🔗 **[View Piyush Security Lab →](https://github.com/piyushbarpete90-coder/Piyush-Security-Lab)**
 
 ## 🚀 Current Focus
 
-- Building practical cybersecurity tools
 - Improving Python and networking skills
-- Learning ethical cybersecurity
-- Creating projects for my developer portfolio
+- Building practical cybersecurity projects
+- Learning ethical cybersecurity concepts
+- Developing real-world programming projects
+- Exploring Linux and security tools
 
 ## 🎯 Goal
 
-To become a skilled **Cybersecurity & Python professional** by continuously learning and building real-world projects.
+To become a skilled **Cybersecurity & Python professional** by continuously learning, building projects, and solving real-world problems.
+
+## 📚 Learning Through Practice
+
+I believe the best way to learn technology is by **building projects, testing ideas, and understanding how things work**.
 
 ---
 
